@@ -1,6 +1,5 @@
 
 ### What is this repository for? ###
-This is the base python base repo for any project to kickstart (Qudo Data Science team).
 There are 2 major components to this:
 * Flask App: REST APIs
 
